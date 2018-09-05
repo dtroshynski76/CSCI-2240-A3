@@ -1,5 +1,5 @@
 /*
-Name: Donovan Troshynski
+Name:
 Assignment #: 3
 Due Date: 5 April 2016
 Description: This program creates a "virtual computer" in which different commands can be read in and executed in the custom programming language. It includes memory manipulation and "compiling" code then executing it.
